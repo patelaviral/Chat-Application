@@ -26,6 +26,9 @@ Frontend (Client-Side):
 * HTML / CSS
 * Bootstrap
 
+# 📷 Screenshots
+![image alt](https://github.com/patelaviral/Chat-Application/blob/e7ce1f9f0986b9325b8f07494e01cd6800ee57cb/realTime_chat_application.png)
+
 # 📁 Project Structure
 ```
 src/
